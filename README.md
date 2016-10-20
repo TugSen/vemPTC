@@ -25,22 +25,3 @@
  THE BOTTOM OF THIS FILE.
 
 **************************************************************************
-
-——————————————————————————————————————————————————————————————————————————
-VERSION 1.0, BY S. YANG. OCTOBER 2016
-——————————————————————————————————————————————————————————————————————————
-1. THE FIRST VERSION INCLUDES THE FOLLOWING:
-   - MESH GENERATION IN POLAR COORDINATES
-   - ELEMENT NEIGHBOR SEARCH
-   - COMPUTE AND ASSIGN ELEMENT TYPES, PROPERTIES, AND SIZE
-   - HEAT TRANSFER EQUATIONS IMPLEMENTED.
-   THE CODE HAS BEEN VERIFIED AND THE MODEL HAS BEEN VALIDATED USING THE 
-   EXPERIMENTAL DATA PROVIDED BY DUDLEY ET AL.
-
-**************************************************************************
-
- vemPTC CODE STRUCTURE:
-
-	
-
-**************************************************************************
